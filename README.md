@@ -23,10 +23,15 @@ Es un lenguaje de programación para definir estructuras de datos, proporcionado
     );*
     
 3.  - Create: Nos permite crear una base de datos, tabla, vistas, etc.
+
 4.   *CREATE DATABASE <nombre_bd>;*
+
 5.  - Drop: Nos permite eliminar los objetos de la estructura, por ejemplo un índice o una secuencia.
+
 6.   *DROP DATABASE <nombre_bd>*
+
 7.  - Alter: Nos permite modificar la tabla y añadir o quitar columnas.
+
 8.   *ALTER TABLE <nombre_tabla>
     [RENAME TO <nuevo_nombre>],
     [RENAME COLUMN <nombre_columna> TO <nuevo_nombre>],
@@ -40,7 +45,7 @@ Utilizando instrucciones de SQL, permite a los usuarios introducir datos para po
 # Ejemplos_Prácticos-DML
 1.  - Select: Nos permite realizar consultas sobre los datos.
 
-2.  * SELECT nombre_columna, nombre_columna2
+2.  *SELECT nombre_columna, nombre_columna2
      FROM nombre_tabla;*
      
 3.  - Insert: Nos permite insertar valores en una base de datos.
