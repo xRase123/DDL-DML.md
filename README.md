@@ -50,7 +50,7 @@ Utilizando instrucciones de SQL, permite a los usuarios introducir datos para po
      
 3.  - Insert: Nos permite insertar valores en una base de datos.
 
-4.  *INSERT INTO <nombre_tabla> *
+4.  *INSERT INTO <nombre_tabla>*
 
 5.  - Update: Nos permite modificar los valores de uno o varios registros.
 
